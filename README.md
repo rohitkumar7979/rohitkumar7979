@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-📫 How to reach me: <b>rohitsingh07926@gmail.com</b>
+📫 How to reach me: 
+<a href="mailto:rohitsingh07926@gmail.com" style="color:#1E90FF; text-decoration:none;">
+<b>rohitsingh07926@gmail.com</b>
+</a>
 </p>
 
 ---
@@ -10,15 +13,19 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/rohitkumar" target="blank">
+
+<a href="https://linkedin.com/in/rohitkumar" target="_blank" style="margin-right:15px;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/rohit__rajput77" target="blank">
+
+<a href="https://instagram.com/rohit__rajput77" target="_blank" style="margin-right:15px;">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://www.codechef.com/users/rohit_kumar77" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40"/>
+
+<a href="https://www.codechef.com/users/rohit_kumar77" target="_blank">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" height="40"/>
 </a>
+
 </p>
 
 ---
