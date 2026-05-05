@@ -14,10 +14,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/rohitkumar" target="_blank" style="margin-right:15px;">
+<a href="https://www.linkedin.com/in/rohit-kumar-b2863a2a5" target="_blank" style="margin-right:15px;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
+  
 <a href="https://instagram.com/rohit__rajput77" target="_blank" style="margin-right:15px;">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
